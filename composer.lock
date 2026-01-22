@@ -44,7 +44,7 @@
         },
         {
             "name": "dompdf/dompdf",
-            "version": "v0.8.6",
+            "version": "v3.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dompdf/dompdf.git",
@@ -60,7 +60,7 @@
                 "ext-dom": "*",
                 "ext-mbstring": "*",
                 "phenx/php-font-lib": "^0.5.2",
-                "phenx/php-svg-lib": "^0.3.3",
+                "phenx/php-svg-lib": "^0.5",
                 "php": "^7.1"
             },
             "require-dev": {
